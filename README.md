@@ -1,11 +1,18 @@
 # Projet DSE FT 101 - groupe "room 4"
 
-This application predicts the exam score of a student based on various factors such as age, study hours, social media usage, etc.
+Bonjour, 
+voici le projet du groupe "room 4" pourtant sur la prédiction des scores l'examen :
+ - en se basant sur le dataset de Kaggle "https://www.kaggle.com/datasets/jayaantanaath/student-habits-vs-academic-performance/data"
+ - en équipe avec :
+         - Thomas   : https://github.com/FastCapybara31/dse
+         - Anthony  : https://github.com/Ant-gcb/DSE_Project
+         - Asma     :
+         - Olivier  : 
 
 ## Features:
-- Input data such as age, study hours, social media usage, etc.
-- Predict exam score using machine learning models.
-- Display grade based on the predicted score.
+- Incorpore le dataset en dataframe et l'analyse.
+- Prédit la note final à l'examen en se basant sur des models de prédiction de "machine learning".
+- Affiche le score en fonction des valeures rentrée dans le predicteur.
 
 
 ## Requirements:
