@@ -8,7 +8,7 @@ voici le projet du groupe "room 4" pourtant sur la prédiction des scores l'exam
 -> Thomas   : https://github.com/FastCapybara31/dse  
 -> Anthony  : https://github.com/Ant-gcb/DSE_Project  
 -> Asma     :  
--> Olivier  :   
+-> Olivier  : https://github.com/Olivier-DSE/DSE---FULL-TIME---Projet-final   
 
 ## Features:
 - Incorpore le dataset en dataframe et l'analyse.
